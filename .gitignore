@@ -1,0 +1,22 @@
+# Build
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# NuGet
+*.nupkg
+**/packages/
+
+# Ambiente local
+appsettings.Development.json
+
+# Banco local
+*.mdf
+*.ldf
+
+# Logs
+*.log
